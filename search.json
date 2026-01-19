@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "PresentationObservationalExperimental.html#learning-objectives",
+    "href": "PresentationObservationalExperimental.html#learning-objectives",
+    "title": "Experiments and Observational Studies",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nBy the end of this session, you should be able to:\n\nDifferentiate between Observational Studies and Experiments.\nIdentify the components of an experiment: Factors, Levels, and Treatments.\nApply the four principles of experimental design.\nRecognize confounding variables and explain how randomization resolves them."
+  },
+  {
+    "objectID": "PresentationObservationalExperimental.html#observational-studies",
+    "href": "PresentationObservationalExperimental.html#observational-studies",
+    "title": "Experiments and Observational Studies",
+    "section": "1. Observational Studies",
+    "text": "1. Observational Studies\nDefinition: Researchers observe choices or outcomes without assigning treatments.\n\nRetrospective: Looking at past data (e.g., examining medical records).\nProspective: Following subjects into the future (e.g., tracking a cohort).\n\n\nKey Takeaway: Observational studies can show association, but they cannot prove causation."
+  },
+  {
+    "objectID": "PresentationObservationalExperimental.html#observational-vs.-experimental",
+    "href": "PresentationObservationalExperimental.html#observational-vs.-experimental",
+    "title": "Experiments and Observational Studies",
+    "section": "Observational vs. Experimental",
+    "text": "Observational vs. Experimental\n\n\nVideo: Difference between Observational Studies and Experiments"
+  },
+  {
+    "objectID": "PresentationObservationalExperimental.html#experimental-terminology",
+    "href": "PresentationObservationalExperimental.html#experimental-terminology",
+    "title": "Experiments and Observational Studies",
+    "section": "2. Experimental Terminology",
+    "text": "2. Experimental Terminology\nTo prove causation, we need an Experiment, where we manipulate conditions.\n\nResponse Variable: What we measure (e.g., Tomato weight).\nFactors: The explanatory variables we manipulate (e.g., Fertilizer, Water).\nLevels: The specific values chosen for a factor.\n\nFertilizer Levels: None, Brand A, Brand B\nWater Levels: 500ml, 1000ml"
+  },
+  {
+    "objectID": "PresentationObservationalExperimental.html#defining-treatments",
+    "href": "PresentationObservationalExperimental.html#defining-treatments",
+    "title": "Experiments and Observational Studies",
+    "section": "Defining Treatments",
+    "text": "Defining Treatments\nA Treatment is a specific combination of the levels of each factor assigned to a subject.\nExample: Growing Tomatoes\nCombining the factors from the previous slide (3 Fertilizer levels \\(\\times\\) 2 Water levels) creates 6 Distinct Treatments:\n\n\n\nNone + 500ml\nNone + 1000ml\nBrand A + 500ml\n\n\n\nBrand A + 1000ml\nBrand B + 500ml\nBrand B + 1000ml"
+  },
+  {
+    "objectID": "PresentationObservationalExperimental.html#the-four-principles-of-design",
+    "href": "PresentationObservationalExperimental.html#the-four-principles-of-design",
+    "title": "Experiments and Observational Studies",
+    "section": "3. The Four Principles of Design",
+    "text": "3. The Four Principles of Design\nTo create a valid experiment, we must:\n\nControl: Make conditions as similar as possible for all groups.\nRandomize: Equalize the effects of unknown variation.\nReplicate: Use enough subjects so differences aren’t just anecdotes.\nBlock: Group similar subjects together before randomizing."
+  },
+  {
+    "objectID": "PresentationObservationalExperimental.html#deep-dive-the-4-principles",
+    "href": "PresentationObservationalExperimental.html#deep-dive-the-4-principles",
+    "title": "Experiments and Observational Studies",
+    "section": "Deep Dive: The 4 Principles",
+    "text": "Deep Dive: The 4 Principles\n\n\nVideo: Randomization, Replication, Control, and Blocking"
+  },
+  {
+    "objectID": "PresentationObservationalExperimental.html#diagrams-blinding",
+    "href": "PresentationObservationalExperimental.html#diagrams-blinding",
+    "title": "Experiments and Observational Studies",
+    "section": "Diagrams & Blinding",
+    "text": "Diagrams & Blinding\nDiagrams: Visual maps starting from the Subject Pool \\(\\rightarrow\\) Random Assignment \\(\\rightarrow\\) Treatments \\(\\rightarrow\\) Response.\nBlinding: Hiding the treatment assignment to reduce bias. * Placebo: A fake treatment to measure the “Placebo Effect.” * Double-blind: Neither subject nor evaluator knows the assignment."
+  },
+  {
+    "objectID": "PresentationObservationalExperimental.html#confounding",
+    "href": "PresentationObservationalExperimental.html#confounding",
+    "title": "Experiments and Observational Studies",
+    "section": "4. Confounding",
+    "text": "4. Confounding\nThe Enemy of Inference.\nWhen the levels of one factor are associated with the levels of another factor, we cannot separate their effects.\n\nExample: Testing a new teaching method only in the morning. Is it the method or the time of day?\nRandomization is the cure for confounding."
+  },
+  {
+    "objectID": "PresentationObservationalExperimental.html#confounding-explained",
+    "href": "PresentationObservationalExperimental.html#confounding-explained",
+    "title": "Experiments and Observational Studies",
+    "section": "Confounding Explained",
+    "text": "Confounding Explained\n\n\nVideo: What is a Confounding Variable?"
+  },
+  {
+    "objectID": "PresentationObservationalExperimental.html#summary-review-of-objectives",
+    "href": "PresentationObservationalExperimental.html#summary-review-of-objectives",
+    "title": "Experiments and Observational Studies",
+    "section": "Summary (Review of Objectives)",
+    "text": "Summary (Review of Objectives)\n\nObs vs. Exp: Only Experiments can prove causation; Observational studies only show trends.\nComponents: Remember that Treatments are the specific combinations of Factor Levels.\nThe Big Four: Valid experiments must Control, Randomize, Replicate, and Block.\nConfounding: We Randomize to ensure that confounding variables are spread equally across groups."
+  }
+]
