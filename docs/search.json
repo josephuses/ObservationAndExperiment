@@ -1,10 +1,17 @@
 [
   {
+    "objectID": "PresentationObservationalExperimental.html#learning-objectives",
+    "href": "PresentationObservationalExperimental.html#learning-objectives",
+    "title": "Experiments and Observational Studies",
+    "section": "Learning Objectives",
+    "text": "Learning Objectives\nBy the end of this session, you should be able to:\n\nDifferentiate between Observational Studies and Experiments.\nIdentify the components of an experiment: Factors, Levels, and Treatments.\nApply the four principles of experimental design.\nRecognize confounding variables and explain how randomization resolves them."
+  },
+  {
     "objectID": "PresentationObservationalExperimental.html#observational-studies",
     "href": "PresentationObservationalExperimental.html#observational-studies",
     "title": "Experiments and Observational Studies",
-    "section": "Observational Studies",
-    "text": "Observational Studies\nDefinition: Researchers observe choices or outcomes without assigning treatments.\n\nRetrospective: Looking at past data (e.g., examining medical records of people who already have a disease).\nProspective: Following subjects into the future to observe outcomes (e.g., tracking a cohort of smokers vs. non-smokers).\n\n\nKey Takeaway: Observational studies can show association, but they cannot prove causation."
+    "section": "1. Observational Studies",
+    "text": "1. Observational Studies\nDefinition: Researchers observe choices or outcomes without assigning treatments.\n\nRetrospective: Looking at past data (e.g., examining medical records).\nProspective: Following subjects into the future (e.g., tracking a cohort).\n\n\nKey Takeaway: Observational studies can show association, but they cannot prove causation."
   },
   {
     "objectID": "PresentationObservationalExperimental.html#observational-vs.-experimental",
@@ -14,11 +21,11 @@
     "text": "Observational vs. Experimental\n\n\nVideo: Difference between Observational Studies and Experiments"
   },
   {
-    "objectID": "PresentationObservationalExperimental.html#experiments-basic-terminology",
-    "href": "PresentationObservationalExperimental.html#experiments-basic-terminology",
+    "objectID": "PresentationObservationalExperimental.html#experimental-terminology",
+    "href": "PresentationObservationalExperimental.html#experimental-terminology",
     "title": "Experiments and Observational Studies",
-    "section": "Experiments: Basic Terminology",
-    "text": "Experiments: Basic Terminology\nTo prove causation, we need an Experiment, where we manipulate conditions.\n\nResponse Variable: What we measure at the end (e.g., Tomato weight).\nFactors: The explanatory variables we manipulate (e.g., Fertilizer Type, Water Amount).\nLevels: The specific values chosen for a factor.\n\nFertilizer Levels: None, Brand A, Brand B\nWater Levels: 500ml, 1000ml"
+    "section": "2. Experimental Terminology",
+    "text": "2. Experimental Terminology\nTo prove causation, we need an Experiment, where we manipulate conditions.\n\nResponse Variable: What we measure (e.g., Tomato weight).\nFactors: The explanatory variables we manipulate (e.g., Fertilizer, Water).\nLevels: The specific values chosen for a factor.\n\nFertilizer Levels: None, Brand A, Brand B\nWater Levels: 500ml, 1000ml"
   },
   {
     "objectID": "PresentationObservationalExperimental.html#defining-treatments",
@@ -31,8 +38,8 @@
     "objectID": "PresentationObservationalExperimental.html#the-four-principles-of-design",
     "href": "PresentationObservationalExperimental.html#the-four-principles-of-design",
     "title": "Experiments and Observational Studies",
-    "section": "The Four Principles of Design",
-    "text": "The Four Principles of Design\nTo create a valid experiment, we follow four principles:\n\nControl: Make conditions as similar as possible for all groups (e.g., same sunlight, same soil).\nRandomize: Equalize the effects of unknown or uncontrollable sources of variation.\nReplicate: Use enough subjects so that differences aren’t just chance anecdotes.\nBlock: Group similar subjects together before randomizing to reduce variability."
+    "section": "3. The Four Principles of Design",
+    "text": "3. The Four Principles of Design\nTo create a valid experiment, we must:\n\nControl: Make conditions as similar as possible for all groups.\nRandomize: Equalize the effects of unknown variation.\nReplicate: Use enough subjects so differences aren’t just anecdotes.\nBlock: Group similar subjects together before randomizing."
   },
   {
     "objectID": "PresentationObservationalExperimental.html#deep-dive-the-4-principles",
@@ -42,25 +49,18 @@
     "text": "Deep Dive: The 4 Principles\n\n\nVideo: Randomization, Replication, Control, and Blocking"
   },
   {
-    "objectID": "PresentationObservationalExperimental.html#diagrams",
-    "href": "PresentationObservationalExperimental.html#diagrams",
+    "objectID": "PresentationObservationalExperimental.html#diagrams-blinding",
+    "href": "PresentationObservationalExperimental.html#diagrams-blinding",
     "title": "Experiments and Observational Studies",
-    "section": "Diagrams",
-    "text": "Diagrams\nDe Veaux emphasizes drawing diagrams to “Think” through the design.\n\nStart with the Pool of subjects.\nBlock (if necessary) based on a variable you can’t control but think matters (e.g., tomato variety).\nBranch out to Random Assignment (Crucial step!).\nList the specific Treatments.\nEnd with the Response comparison."
-  },
-  {
-    "objectID": "PresentationObservationalExperimental.html#blinding-and-placebos",
-    "href": "PresentationObservationalExperimental.html#blinding-and-placebos",
-    "title": "Experiments and Observational Studies",
-    "section": "Blinding and Placebos",
-    "text": "Blinding and Placebos\nHumans are biased. We must manage that bias.\n\nPlacebo: A “fake” treatment that looks like the real thing used in the control group.\nThe Placebo Effect: Subjects often improve just because they believe they are being treated.\nBlinding:\n\nSingle-blind: The subject doesn’t know which treatment they got.\nDouble-blind: Neither the subject nor the evaluator knows who got what (Gold Standard)."
+    "section": "Diagrams & Blinding",
+    "text": "Diagrams & Blinding\nDiagrams: Visual maps starting from the Subject Pool \\(\\rightarrow\\) Random Assignment \\(\\rightarrow\\) Treatments \\(\\rightarrow\\) Response.\nBlinding: Hiding the treatment assignment to reduce bias. * Placebo: A fake treatment to measure the “Placebo Effect.” * Double-blind: Neither subject nor evaluator knows the assignment."
   },
   {
     "objectID": "PresentationObservationalExperimental.html#confounding",
     "href": "PresentationObservationalExperimental.html#confounding",
     "title": "Experiments and Observational Studies",
-    "section": "Confounding",
-    "text": "Confounding\nThe Enemy of Inference.\nWhen the levels of one factor are associated with the levels of another factor in such a way that their effects cannot be separated.\n\nExample: If you test a new teaching method only in morning classes and the old method only in afternoon classes. If scores improve, was it the method or the time of day? Time of day is confounding the results.\nRandomization is the cure for confounding."
+    "section": "4. Confounding",
+    "text": "4. Confounding\nThe Enemy of Inference.\nWhen the levels of one factor are associated with the levels of another factor, we cannot separate their effects.\n\nExample: Testing a new teaching method only in the morning. Is it the method or the time of day?\nRandomization is the cure for confounding."
   },
   {
     "objectID": "PresentationObservationalExperimental.html#confounding-explained",
@@ -70,10 +70,10 @@
     "text": "Confounding Explained\n\n\nVideo: What is a Confounding Variable?"
   },
   {
-    "objectID": "PresentationObservationalExperimental.html#summary-think-show-tell",
-    "href": "PresentationObservationalExperimental.html#summary-think-show-tell",
+    "objectID": "PresentationObservationalExperimental.html#summary-review-of-objectives",
+    "href": "PresentationObservationalExperimental.html#summary-review-of-objectives",
     "title": "Experiments and Observational Studies",
-    "section": "Summary: Think, Show, Tell",
-    "text": "Summary: Think, Show, Tell\n\nThink: Is this an experiment or an observational study? Can I make a causal claim?\nShow: Diagram your experiment. Ensure you have Controlled, Randomized, Replicated, and Blocked.\nTell: Interpret the results. “The difference in response is statistically significant…” (meaning unlikely to have occurred by chance)."
+    "section": "Summary (Review of Objectives)",
+    "text": "Summary (Review of Objectives)\n\nObs vs. Exp: Only Experiments can prove causation; Observational studies only show trends.\nComponents: Remember that Treatments are the specific combinations of Factor Levels.\nThe Big Four: Valid experiments must Control, Randomize, Replicate, and Block.\nConfounding: We Randomize to ensure that confounding variables are spread equally across groups."
   }
 ]
