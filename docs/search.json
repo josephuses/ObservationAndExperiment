@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "PresentationObservationalExperimental.html#observational-studies",
+    "href": "PresentationObservationalExperimental.html#observational-studies",
+    "title": "Experiments and Observational Studies",
+    "section": "Observational Studies",
+    "text": "Observational Studies\nDefinition: Researchers observe choices or outcomes without assigning treatments.\n\nRetrospective: Looking at past data (e.g., examining medical records of people who already have a disease).\nProspective: Following subjects into the future to observe outcomes (e.g., tracking a cohort of smokers vs. non-smokers).\n\n\nKey Takeaway: Observational studies can show association, but they cannot prove causation."
+  },
+  {
+    "objectID": "PresentationObservationalExperimental.html#observational-vs.-experimental",
+    "href": "PresentationObservationalExperimental.html#observational-vs.-experimental",
+    "title": "Experiments and Observational Studies",
+    "section": "Observational vs. Experimental",
+    "text": "Observational vs. Experimental\n\n\nVideo: Difference between Observational Studies and Experiments"
+  },
+  {
+    "objectID": "PresentationObservationalExperimental.html#experiments-basic-terminology",
+    "href": "PresentationObservationalExperimental.html#experiments-basic-terminology",
+    "title": "Experiments and Observational Studies",
+    "section": "Experiments: Basic Terminology",
+    "text": "Experiments: Basic Terminology\nTo prove causation, we need an Experiment, where we manipulate conditions.\n\nResponse Variable: What we measure at the end (e.g., Tomato weight).\nFactors: The explanatory variables we manipulate (e.g., Fertilizer Type, Water Amount).\nLevels: The specific values chosen for a factor.\n\nFertilizer Levels: None, Brand A, Brand B\nWater Levels: 500ml, 1000ml"
+  },
+  {
+    "objectID": "PresentationObservationalExperimental.html#defining-treatments",
+    "href": "PresentationObservationalExperimental.html#defining-treatments",
+    "title": "Experiments and Observational Studies",
+    "section": "Defining Treatments",
+    "text": "Defining Treatments\nA Treatment is a specific combination of the levels of each factor assigned to a subject.\nExample: Growing Tomatoes\nCombining the factors from the previous slide (3 Fertilizer levels \\(\\times\\) 2 Water levels) creates 6 Distinct Treatments:\n\n\n\nNone + 500ml\nNone + 1000ml\nBrand A + 500ml\n\n\n\nBrand A + 1000ml\nBrand B + 500ml\nBrand B + 1000ml"
+  },
+  {
+    "objectID": "PresentationObservationalExperimental.html#the-four-principles-of-design",
+    "href": "PresentationObservationalExperimental.html#the-four-principles-of-design",
+    "title": "Experiments and Observational Studies",
+    "section": "The Four Principles of Design",
+    "text": "The Four Principles of Design\nTo create a valid experiment, we follow four principles:\n\nControl: Make conditions as similar as possible for all groups (e.g., same sunlight, same soil).\nRandomize: Equalize the effects of unknown or uncontrollable sources of variation.\nReplicate: Use enough subjects so that differences aren’t just chance anecdotes.\nBlock: Group similar subjects together before randomizing to reduce variability."
+  },
+  {
+    "objectID": "PresentationObservationalExperimental.html#deep-dive-the-4-principles",
+    "href": "PresentationObservationalExperimental.html#deep-dive-the-4-principles",
+    "title": "Experiments and Observational Studies",
+    "section": "Deep Dive: The 4 Principles",
+    "text": "Deep Dive: The 4 Principles\n\n\nVideo: Randomization, Replication, Control, and Blocking"
+  },
+  {
+    "objectID": "PresentationObservationalExperimental.html#diagrams",
+    "href": "PresentationObservationalExperimental.html#diagrams",
+    "title": "Experiments and Observational Studies",
+    "section": "Diagrams",
+    "text": "Diagrams\nDe Veaux emphasizes drawing diagrams to “Think” through the design.\n\nStart with the Pool of subjects.\nBlock (if necessary) based on a variable you can’t control but think matters (e.g., tomato variety).\nBranch out to Random Assignment (Crucial step!).\nList the specific Treatments.\nEnd with the Response comparison."
+  },
+  {
+    "objectID": "PresentationObservationalExperimental.html#blinding-and-placebos",
+    "href": "PresentationObservationalExperimental.html#blinding-and-placebos",
+    "title": "Experiments and Observational Studies",
+    "section": "Blinding and Placebos",
+    "text": "Blinding and Placebos\nHumans are biased. We must manage that bias.\n\nPlacebo: A “fake” treatment that looks like the real thing used in the control group.\nThe Placebo Effect: Subjects often improve just because they believe they are being treated.\nBlinding:\n\nSingle-blind: The subject doesn’t know which treatment they got.\nDouble-blind: Neither the subject nor the evaluator knows who got what (Gold Standard)."
+  },
+  {
+    "objectID": "PresentationObservationalExperimental.html#confounding",
+    "href": "PresentationObservationalExperimental.html#confounding",
+    "title": "Experiments and Observational Studies",
+    "section": "Confounding",
+    "text": "Confounding\nThe Enemy of Inference.\nWhen the levels of one factor are associated with the levels of another factor in such a way that their effects cannot be separated.\n\nExample: If you test a new teaching method only in morning classes and the old method only in afternoon classes. If scores improve, was it the method or the time of day? Time of day is confounding the results.\nRandomization is the cure for confounding."
+  },
+  {
+    "objectID": "PresentationObservationalExperimental.html#confounding-explained",
+    "href": "PresentationObservationalExperimental.html#confounding-explained",
+    "title": "Experiments and Observational Studies",
+    "section": "Confounding Explained",
+    "text": "Confounding Explained\n\n\nVideo: What is a Confounding Variable?"
+  },
+  {
+    "objectID": "PresentationObservationalExperimental.html#summary-think-show-tell",
+    "href": "PresentationObservationalExperimental.html#summary-think-show-tell",
+    "title": "Experiments and Observational Studies",
+    "section": "Summary: Think, Show, Tell",
+    "text": "Summary: Think, Show, Tell\n\nThink: Is this an experiment or an observational study? Can I make a causal claim?\nShow: Diagram your experiment. Ensure you have Controlled, Randomized, Replicated, and Blocked.\nTell: Interpret the results. “The difference in response is statistically significant…” (meaning unlikely to have occurred by chance)."
+  }
+]
