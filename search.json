@@ -11,7 +11,7 @@
     "href": "PresentationObservationalExperimental.html#observational-studies",
     "title": "Experiments and Observational Studies",
     "section": "1. Observational Studies",
-    "text": "1. Observational Studies\nDefinition: Researchers observe choices or outcomes without assigning treatments.\n\nRetrospective: Looking at past data (e.g., examining medical records).\nProspective: Following subjects into the future (e.g., tracking a cohort).\n\n\nKey Takeaway: Observational studies can show association, but they cannot prove causation."
+    "text": "1. Observational Studies\nDefinition: Researchers observe choices or outcomes without assigning treatments.\n\nRetrospective: Looking at past data (e.g., examining hospital records of jeepney drivers for respiratory issues).\nProspective: Following subjects into the future (e.g., tracking a cohort of BPO workers for 5 years to see health effects of night shifts).\n\n\nExample: “Does eating ‘Unli-Rice’ cause diabetes?” If we just survey people, we can only find an association, not a cause."
   },
   {
     "objectID": "PresentationObservationalExperimental.html#observational-vs.-experimental",
@@ -25,21 +25,21 @@
     "href": "PresentationObservationalExperimental.html#experimental-terminology",
     "title": "Experiments and Observational Studies",
     "section": "2. Experimental Terminology",
-    "text": "2. Experimental Terminology\nTo prove causation, we need an Experiment, where we manipulate conditions.\n\nResponse Variable: What we measure (e.g., Tomato weight).\nFactors: The explanatory variables we manipulate (e.g., Fertilizer, Water).\nLevels: The specific values chosen for a factor.\n\nFertilizer Levels: None, Brand A, Brand B\nWater Levels: 500ml, 1000ml"
+    "text": "2. Experimental Terminology\nTo prove causation, we need an Experiment.\n\nResponse Variable: What we measure (e.g., Taste Rating).\nFactors: The explanatory variables we manipulate (e.g., Soy Sauce Brand, Vinegar Type).\nLevels: The specific values chosen.\n\nSoy Sauce Levels: Silver Swan, Datu Puti\nVinegar Levels: Cane, Coconut (Tuba)"
   },
   {
     "objectID": "PresentationObservationalExperimental.html#defining-treatments",
     "href": "PresentationObservationalExperimental.html#defining-treatments",
     "title": "Experiments and Observational Studies",
     "section": "Defining Treatments",
-    "text": "Defining Treatments\nA Treatment is a specific combination of the levels of each factor assigned to a subject.\nExample: Growing Tomatoes\nCombining the factors from the previous slide (3 Fertilizer levels \\(\\times\\) 2 Water levels) creates 6 Distinct Treatments:\n\n\n\nNone + 500ml\nNone + 1000ml\nBrand A + 500ml\n\n\n\nBrand A + 1000ml\nBrand B + 500ml\nBrand B + 1000ml"
+    "text": "Defining Treatments\nA Treatment is a specific combination of the levels of each factor.\nExample: The “Perfect Adobo” Experiment\nCombining the factors from the previous slide (2 Soy Sauce \\(\\times\\) 2 Vinegar) creates 4 Distinct Treatments:\n\n\n\nSilver Swan + Cane\nSilver Swan + Coconut\n\n\n\nDatu Puti + Cane\nDatu Puti + Coconut"
   },
   {
     "objectID": "PresentationObservationalExperimental.html#the-four-principles-of-design",
     "href": "PresentationObservationalExperimental.html#the-four-principles-of-design",
     "title": "Experiments and Observational Studies",
     "section": "3. The Four Principles of Design",
-    "text": "3. The Four Principles of Design\nTo create a valid experiment, we must:\n\nControl: Make conditions as similar as possible for all groups.\nRandomize: Equalize the effects of unknown variation.\nReplicate: Use enough subjects so differences aren’t just anecdotes.\nBlock: Group similar subjects together before randomizing."
+    "text": "3. The Four Principles of Design\n\nControl: Make conditions as similar as possible for all groups. Keep conditions the same (e.g., same amount of garlic, same cooking time, same pot type).\nRandomize: Equalize the effects of unknown variation. E.g. Randomly assign which judge tastes which Adobo to average out bias (e.g., judge’s mood).\nReplicate: Use enough subjects so differences aren’t just anecdotes. E.g. Use many judges (n=50), not just one “Tita”.\nBlock: Group similar subjects together before randomizing. E.g. Group judges by preference first. (e.g., “Visayans” vs “Tagalogs” might have different taste preferences, so we block by region)."
   },
   {
     "objectID": "PresentationObservationalExperimental.html#deep-dive-the-4-principles",
@@ -53,27 +53,27 @@
     "href": "PresentationObservationalExperimental.html#diagrams-blinding",
     "title": "Experiments and Observational Studies",
     "section": "Diagrams & Blinding",
-    "text": "Diagrams & Blinding\nDiagrams: Visual maps starting from the Subject Pool \\(\\rightarrow\\) Random Assignment \\(\\rightarrow\\) Treatments \\(\\rightarrow\\) Response.\nBlinding: Hiding the treatment assignment to reduce bias. * Placebo: A fake treatment to measure the “Placebo Effect.” * Double-blind: Neither subject nor evaluator knows the assignment."
+    "text": "Diagrams & Blinding\nDiagrams: Visual maps of the experiment structure.\nBlinding: Hiding the treatment assignment.\n\nSingle-blind: The taste-tester doesn’t know which soy sauce was used.\nDouble-blind: Neither the taste-tester nor the person handing them the bowl knows which is which. (Prevents the server from giving “hints” like smiling when serving their favorite brand)."
   },
   {
     "objectID": "PresentationObservationalExperimental.html#confounding",
     "href": "PresentationObservationalExperimental.html#confounding",
     "title": "Experiments and Observational Studies",
     "section": "4. Confounding",
-    "text": "4. Confounding\nThe Enemy of Inference.\nWhen the levels of one factor are associated with the levels of another factor, we cannot separate their effects.\n\nExample: Testing a new teaching method only in the morning. Is it the method or the time of day?\nRandomization is the cure for confounding."
+    "text": "4. Confounding\nThe Enemy of Inference.\nWhen the levels of one factor are associated with the levels of another factor, we cannot separate their effects.\n\nExample: Testing a new teaching method only in the morning. Is it the method or the time of day?\nRandomization is the cure for confounding.\n\nAnother Example\n“Board Exam Review Centers”\nStudents who enroll in expensive Review Centers have higher passing rates. * Is it the center? Or is it because those students have more money (better nutrition/books) and more free time (don’t need to work)? * Socio-economic status is confounding the result."
   },
   {
     "objectID": "PresentationObservationalExperimental.html#confounding-explained",
     "href": "PresentationObservationalExperimental.html#confounding-explained",
     "title": "Experiments and Observational Studies",
     "section": "Confounding Explained",
-    "text": "Confounding Explained\n\n\nVideo: What is a Confounding Variable?"
+    "text": "Confounding Explained\n\n\nVideo: Confounding Variables"
   },
   {
     "objectID": "PresentationObservationalExperimental.html#summary-review-of-objectives",
     "href": "PresentationObservationalExperimental.html#summary-review-of-objectives",
     "title": "Experiments and Observational Studies",
     "section": "Summary (Review of Objectives)",
-    "text": "Summary (Review of Objectives)\n\nObs vs. Exp: Only Experiments can prove causation; Observational studies only show trends.\nComponents: Remember that Treatments are the specific combinations of Factor Levels.\nThe Big Four: Valid experiments must Control, Randomize, Replicate, and Block.\nConfounding: We Randomize to ensure that confounding variables are spread equally across groups."
+    "text": "Summary (Review of Objectives)\n\nObs vs. Exp: Only Experiments can prove causation; Observational studies only show trends. Observation is like a survey (Unli-rice usage); Experiment is an intervention (Adobo cooking test).\nComponents: Remember that Treatments are the specific combinations of Factor Levels. E.g. Treatments are the specific recipes (Factor Combinations).\nThe Big Four: Valid experiments must Control, Randomize, Replicate, and Block. E.g. Control (ingredients), Randomize (tasters), Replicate (sample size), Block (region).\nConfounding: We Randomize to ensure that confounding variables are spread equally across groups. E.g. without randomization, other factors (like wealth in the Review Center example) confuse our results."
   }
 ]
